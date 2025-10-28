@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>الأكثر مبيعاً</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>الأكثر مبيعاً</h1>
+    <p>أشهر السيارات مبيعاً عالمياً – 2020 إلى 2025</p>
+  </header>
+
+  <main>
+
+    <section id="year-2025">
+      <h2>2025</h2>
+      <p>حتى الآن، بيانات أولية تُشير إلى أن Toyota RAV4 يتصدر المبيعات العالمية لعام 2025.  [oai_citation:0‡Focus2Move](https://www.focus2move.com/world-car-market/?utm_source=chatgpt.com)</p>
+      <img src="images/2025_toyota_rav4.jpg" alt="Toyota RAV4 2025">
+      <p>المراجع: Focus2Move – World Best Selling Model Ranking 2025.  [oai_citation:1‡Focus2Move](https://www.focus2move.com/world-car-market/?utm_source=chatgpt.com)</p>
+    </section>
+
+    <section id="year-2024">
+      <h2>2024</h2>
+      <p>لم تتوفّر بيانات كاملة مُوثَّقة لنموذج السيارة الأكثر مبيعاً لكامل 2024، لكن الشركة Toyota باعت حوالي 10.8 مليون وحدة لتبقى الأولى عالمياً.  [oai_citation:2‡Reuters](https://www.reuters.com/business/autos-transportation/toyota-sells-108-million-vehicles-2024-remain-worlds-top-selling-automaker-2025-01-30/?utm_source=chatgpt.com)</p>
+      <img src="images/2024_toyota_logo.jpg" alt="Toyota Logo">
+      <p>المراجع: Reuters – Toyota sells 10.8 million vehicles in 2024.  [oai_citation:3‡Reuters](https://www.reuters.com/business/autos-transportation/toyota-sells-108-million-vehicles-2024-remain-worlds-top-selling-automaker-2025-01-30/?utm_source=chatgpt.com)</p>
+    </section>
+
+    <section id="year-2023">
+      <h2>2023</h2>
+      <p>نموذج Tesla Model Y كان السيارة الأكثر مبيعاً عالمياً في 2023، ببيع حوالي 1.22 مليون وحدة.  [oai_citation:4‡Road Genius](https://roadgenius.com/cars/statistics/sales-by-model/?utm_source=chatgpt.com)</p>
+      <img src="images/2023_tesla_model_y.jpg" alt="Tesla Model Y 2023">
+      <p>المراجع: RoadGenius – World's Best-Selling Car Models 2023.  [oai_citation:5‡Road Genius](https://roadgenius.com/cars/statistics/sales-by-model/?utm_source=chatgpt.com)</p>
+    </section>
+
+    <section id="year-2022">
+      <h2>2022</h2>
+      <p>قائمة السيارات الأكثر مبيعاً لعام 2022 متوفّرة ضمن تقرير “Top-500 Best-Selling Cars in 2022”.  [oai_citation:6‡fiatgroupworld.com](https://fiatgroupworld.com/2023/05/03/these-were-the-worlds-top-500-best-selling-cars-in-2022/?utm_source=chatgpt.com)</p>
+      <img src="images/2022_best_selling_car_chart.jpg" alt="Best Selling Cars 2022 Chart">
+      <p>المراجع: Fiat Group World – Top-500 Best-Selling Cars 2022.  [oai_citation:7‡fiatgroupworld.com](https://fiatgroupworld.com/2023/05/03/these-were-the-worlds-top-500-best-selling-cars-in-2022/?utm_source=chatgpt.com)</p>
+    </section>
+
+    <section id="year-2021">
+      <h2>2021</h2>
+      <p>ليس هناك مصدر مفتوح موثوق يُحدد بنفس الدقة “السيارة الأكثر مبيعاً” لعام 2021 على مستوى العالم في النموذج الواحد، ولكن موقع بيانات السيارات العالمية يحتوي على معلومات حسب العلامة التجارية.  [oai_citation:8‡أفضل السيارات المتاحة](https://www.best-selling-cars.com/global-car-sales-worldwide-by-brand/?utm_source=chatgpt.com)</p>
+      <img src="images/2021_best_selling_car.jpg" alt="Best Selling Car 2021">
+      <p>المراجع: Global Car Sales by Brand 2020-2021.  [oai_citation:9‡أفضل السيارات المتاحة](https://www.best-selling-cars.com/global-car-sales-worldwide-by-brand/?utm_source=chatgpt.com)</p>
+    </section>
+
+    <section id="year-2020">
+      <h2>2020</h2>
+      <p>عام 2020 شهد تأثير كبير لجائحة COVID-19، وتوفّرت بيانات إجمالية لمبيعات السيارات الجديدة عالمياً.  [oai_citation:10‡GCBC](https://www.goodcarbadcar.net/worldwide-car-sales-by-country-all-years/?utm_source=chatgpt.com)</p>
+      <img src="images/2020_car_sales_global.jpg" alt="Global Car Sales 2020">
+      <p>المراجع: GoodCarBadCar – Worldwide Car Sales by Country (All Years).  [oai_citation:11‡GCBC](https://www.goodcarbadcar.net/worldwide-car-sales-by-country-all-years/?utm_source=chatgpt.com)</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>صُنع بواسطة طلاب جامعة جازان</p>
+    <img src="images/jazan_university_logo.png" alt="شعار جامعة جازان">
+  </footer>
+
+</body>
+</html>
